@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # indragraha-cp 🚀
 
 **Indragraha Nusaplasindo Website Clone**  
